@@ -20,4 +20,6 @@
 
         switch(op)
         {
-            case 1:  : %d\n", (num1+num2));break;
+            case 1:  : %d\n", (num1+num2);break;
+            case 2   : %d\n", (num1-num2) ;
+            break;
